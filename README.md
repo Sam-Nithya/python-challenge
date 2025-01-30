@@ -24,21 +24,21 @@ This script (`PyPoll`) analyzes election data to calculate:
 
 python-challenge  
 ├── Main Branch
-│  
-├── PyBank  
-│   ├── Resources  
-│   │   └── budget_data.csv  
-│   ├── analysis  
-│   │   └── budget_analysis.txt  
-│   └── main.py  
-│  
-├── PyPoll  
-│   ├── Resources  
-│   │   └── election_data.csv  
-│   ├── analysis  
-│   │   └── election_analysis.txt  
-│   └── main.py  
-│  
-└── README.md  
+ │  
+ ├── PyBank  
+ │   ├── Resources  
+ │   │   └── budget_data.csv  
+ │   ├── analysis  
+ │   │   └── budget_analysis.txt  
+ │   └── main.py  
+ │  
+ ├── PyPoll  
+ │   ├── Resources  
+ │   │   └── election_data.csv  
+ │   ├── analysis  
+ │   │   └── election_analysis.txt  
+ │   └── main.py  
+ │  
+ └── README.md  
 
 

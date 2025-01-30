@@ -21,12 +21,23 @@ This script (`PyPoll`) analyzes election data to calculate:
 - Vote percentage per candidate
 - The winner of the election
 
-## Files
 
-- `PyBank_starter.py`: Script for financial analysis.
-- `PyPoll_starter.py`: Script for election analysis.
-- `main/PyBank/budget_data.csv`: Dataset for PyBank.
-- `main/PyPoll/election_data.csv`: Dataset for PyPoll.
-- `main/PyBank/budget_analysis.txt`: Output text file for PyBank analysis.
-- `main/PyPoll/election_analysis.txt`: Output text file for PyPoll analysis.Mm
+python-challenge  
+│  
+├── PyBank  
+│   ├── Resources  
+│   │   └── budget_data.csv  
+│   ├── analysis  
+│   │   └── budget_analysis.txt  
+│   └── main.py  
+│  
+├── PyPoll  
+│   ├── Resources  
+│   │   └── election_data.csv  
+│   ├── analysis  
+│   │   └── election_analysis.txt  
+│   └── main.py  
+│  
+└── README.md  
+
 
